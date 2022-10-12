@@ -1,2 +1,2 @@
 game = open : "C:\Program Files\CPUID\HWMonitor\HWMonitor.exe" | "C:\Program Files (x86)\MSI Afterburner\MSI Afterburner.exe"
-game = close : tixati | express | Greenshot.exe | update | ace  | chrome | GoogleCrashHandler64.exe | GoogleCrashHandler.exe | brave | ccleaner64 | notepad |ccleaner
+game = close : tixati | express | Greenshot.exe | update | ace  | chrome | GoogleCrashHandler64.exe | GoogleCrashHandler.exe | brave | ccleaner64.exe | ccleaner
