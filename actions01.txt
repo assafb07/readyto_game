@@ -1,0 +1,15 @@
+game = open : "C:\Program Files\CPUID\HWMonitor\HWMonitor.exe" | "C:\Program Files (x86)\MSI Afterburner\MSI Afterburner.exe"
+game = close : tixati | express | Greenshot.exe | update | ace  | chrome | GoogleCrashHandler64.exe | GoogleCrashHandler.exe | brave | ccleaner64 | notepad |ccleaner
+start = open : "C:\Program Files\tixati\tixati.exe"
+start = close : express greenshot update
+
+
+
+
+"C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe" | "C:\Program Files\CPUID\HWMonitor\HWMonitor.exe"
+
+"c:\windows\system32\notepad.exe"
+
+"C:\Program Files\PuTTY\putty.exe"
+
+express.exe  tixati.exe ccleaner ace chrome greenshot 
